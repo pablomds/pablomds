@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pablo MORAIS DE SOUZA</h1>
-<h3 align="center">A passionate fullstack developer from France :smiley:</h3>
+<h3 align="center">A passionate Fullstack Developer from France :smiley:</h3>
 
 - 🔭 I’m currently working on **a Quiz Multiplayer**
 
