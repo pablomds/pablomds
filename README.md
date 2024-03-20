@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pablo MORAIS DE SOUZA</h1>
 <h3 align="center">A passionate Fullstack Developer from France :smiley:</h3>
 
-- 🔭 I’m currently working on **a Quiz Multiplayer**
+- 🔭 I’m currently working on **Jatin (soon)**
 
 - 🌱 I’m currently learning **Next.Js, Typescript, WebSockets and Jest**
 
-- 👨‍💻 All of my projects are available at [https://www.pablomoraisdesouza.site/](https://www.pablomoraisdesouza.site/)
+- 👨‍💻 All of my projects are available at [https://pablomoraisdesouza.vercel.app/](https://pablomoraisdesouza.vercel.app/)
 
 - 📫 How to reach me **moraisdesouzapablo@gmail.com**
 
