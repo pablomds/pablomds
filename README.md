@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Originis (soon)**
 
-- 👨‍💻 All of my projects are available at [https://pablomoraisdesouza.vercel.app/](https://pablomoraisdesouza.vercel.app/)
+- 👨‍💻 All of my projects are available at [www.pablomoraisdesouza.site](https://www.pablomoraisdesouza.site)
 
 - 📫 How to reach me **moraisdesouzapablo@gmail.com**
 
