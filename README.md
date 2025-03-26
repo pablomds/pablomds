@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pablo MORAIS DE SOUZA</h1>
 <h3 align="center">A passionate Web Developer from France :smiley:</h3>
 
-- 🔭 I’m currently working on **Jatin (soon)**
-
-- 🌱 I’m currently learning **Next.Js, Typescript, WebSockets and Jest**
+- 🔭 I’m currently working on **Originis (soon)**
 
 - 👨‍💻 All of my projects are available at [https://pablomoraisdesouza.vercel.app/](https://pablomoraisdesouza.vercel.app/)
 
